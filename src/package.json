@@ -1,0 +1,9 @@
+{
+  "name": "docker-electron",
+  "version": "0.1.0",
+  "description": "A minimal Electron application in Docker",
+  "main": "main.js",
+  "repository": "https://github.com/bbartolome/docker-electron",
+  "author": "bbartolome",
+  "license": "Apache-2.0"
+}
